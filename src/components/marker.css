@@ -6,3 +6,9 @@
   text-align: center;
   font-size: 18px;
 }
+
+
+.marker.selected {
+  background-color: yellow;
+  border-color: black;
+}
